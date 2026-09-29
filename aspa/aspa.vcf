@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Dukas;Aspa;;;
+FN:Aspa Dukas
+ORG:Dúkasa Dispensary
+TITLE:Founder & Head Pharmacist
+EMAIL;TYPE=INTERNET,WORK:aspa@dukasa.com.au
+URL:https://dukasa.com.au
+ADR;TYPE=WORK:;;644-646 Glen Huntly Rd;Caulfield South;VIC;3162;Australia
+X-SOCIALPROFILE;TYPE=instagram:https://www.instagram.com/dukasadispensary
+END:VCARD
