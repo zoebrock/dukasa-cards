@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Cangadis;Helena;;;
+FN:Helena Cangadis
+ORG:Dúkasa Dispensary
+TITLE:Pharmacist In Charge
+EMAIL;TYPE=INTERNET,WORK:helena@dukasa.com.au
+URL:https://dukasa.com.au
+ADR;TYPE=WORK:;;644-646 Glen Huntly Rd;Caulfield South;VIC;3162;Australia
+X-SOCIALPROFILE;TYPE=instagram:https://www.instagram.com/dukasadispensary
+END:VCARD
